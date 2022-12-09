@@ -1,5 +1,5 @@
 package tech.strategio;
-
+import org.gradle.api.tasks.testing.Test;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
